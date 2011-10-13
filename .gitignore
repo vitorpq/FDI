@@ -1,0 +1,9 @@
+images/*
+!.gitignore
+*~
+*.mat
+*.ods
+*.odt
+*.doc
+*.xls
+*.ods
